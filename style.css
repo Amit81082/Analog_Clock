@@ -99,6 +99,7 @@ body {
     background: red;
     box-shadow: 0 0 30px rgba(255, 0, 0, 1);
     animation: glowFlicker 1s infinite alternate, smoothSwing 0.5s ease-in-out;
+    transition: none;
 }
 
 /* Glowing Flicker Animation */
