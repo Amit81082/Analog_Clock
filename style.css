@@ -155,8 +155,8 @@ body::before {
     font-size: 28px;
     font-weight: bold;
     transform: translate(-50%, -50%);
-    color: #f1c40f;
-    text-shadow: 2px 2px 15px rgba(255, 204, 0, 1);
+    color: #ffffff;
+    text-shadow: 2px 2px 15px rgb(255, 255, 255);
 }
 
 /* Center Circle */
